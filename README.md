@@ -1,2 +1,0 @@
-# ESSA-FITNESS
-ESSA FITNESS website
